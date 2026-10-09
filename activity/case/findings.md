@@ -12,4 +12,4 @@ aAAuguhhihg
 
 ## Conclusion
 
-<!-- The combined conclusion. Keep every marker line until both facts are in it. -->
+<!-- The combined conclusion. Keep every marker line until both facts  in it. -->
