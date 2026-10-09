@@ -7,8 +7,7 @@ Write your findings here as you recover them. One finding first, then both.
 <!-- Replace this line with what you recovered, and where you recovered it from. -->
 
 ## Finding 2 — from the courier manifest
- i found a clue ona
-
+aAAuguhhihg
 <!-- Add a heading and write what this fragment proves. -->
 
 ## Conclusion
